@@ -27,7 +27,7 @@ if(typeof VMM != 'undefined') {
         },
         messages: {
             loading_timeline: "Ładowanie Timeline... ",
-            return_to_title: "Wróć do tutułu",
+            return_to_title: "Wróć do tytułu",
             expand_timeline: "Rozszerz Timeline",
             contract_timeline: "Umowa Timeline",
             wikipedia: "Z Wikipedii, wolnej encyklopedii",
